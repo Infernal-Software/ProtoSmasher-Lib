@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtoSmasher-Lib", "ProtoSmasher-Lib\ProtoSmasher-Lib.csproj", "{8612E059-F631-4107-B845-BB83507B9ACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleApp", "SampleApp\SampleApp.csproj", "{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8612E059-F631-4107-B845-BB83507B9ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE27AA01-1D2D-4BC4-8568-FDC82AC67BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA9EF67-2575-4294-9436-989A54D35D36}
+	EndGlobalSection
+EndGlobal
